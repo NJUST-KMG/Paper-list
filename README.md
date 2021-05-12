@@ -27,7 +27,7 @@
 9)3.15 ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION                                                                                    
 10)3.19 APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL（已讲）                                                                             
 11)4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
-12)4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES
+12)4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES(已讲)
 13)4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
 14)4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
 
@@ -50,7 +50,7 @@
 14)3.13 ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS(已讲)                                                                                                   
 15)3.16 TOWARDS IMPARTIAL MULTI-TASK LEARNING                                                                                                                                   
 16)4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                              
-17)4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity
+17)4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity（已将）
 18)4.26 Towards More Explainability: Concept Knowledge Mining Network for Event Recognition                                                                                                         
 
 魏红陈：                                                                                                                                                                        
@@ -75,7 +75,7 @@
 17)3.12 WASSERSTEIN EMBEDDING FOR GRAPH LEARNING                                                                                                                                 
 18)3.14 COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION                                                                                                         
 19)3.15 RETHINKING POSITIONAL ENCODING IN LANGUAGE PRE-TRAINING                                                                                                                 
-20)3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION
+20)3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION(已讲)
 21)4.21 Generating Product Descriptions from User Reviews                                                                                                                       22）4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                                   
 23）5.10 Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval
 
@@ -136,7 +136,7 @@
 8)3.14 ZERO-SHOT SYNTHESIS WITH GROUP-SUPERVISED LEARNING                                                                                                                       
 9)3.15 EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING                                                                                                             
 10)3.18 BAG OF TRICKS FOR ADVERSARIAL TRAINING                                                                                                                                   
-11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                     12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                               13）4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION
+11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                     12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                               13）4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION（已讲）
 14) 4.6 GETTING A CLUE: A METHOD FOR EXPLAINING UNCERTAINTY ESTIMATES
 15) 4.13 Open-world Learning and Application to Product Classification
 
