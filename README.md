@@ -120,6 +120,7 @@
 24）5.8 MQuadE: a Unified Model for Knowledge Fact Embedding
 25）5.10 Learning Intents behind Interactions with Knowledge Graph for Recommendation
 26）5.11 Inductive Entity Representations from Text via Link Prediction
+27）5.12 Few-shot Network Anomaly Detection via Cross-network Meta-learning
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
