@@ -1,3 +1,17 @@
+鲍然：
+2021：
+1）4.6 AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+2）4.13 What happened? The Spread of Fake News Publisher Content During the 2016 U.S. Presidential Election
+3）4.14 A survey on knowledge graph-based recommender systems
+4）4.19 TiSSA: A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors
+5）4.19 Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
+6）4.19 Knowledge Graph Convolutional Networks for Recommender Systems
+7）4.19 A Multi-modal Neural Embeddings Approach for Detecting Mobile Counterfeit Apps
+8）4.21 Doppelgängers on the DarkWeb: A Large-scale Assessment on Phishing HiddenWeb Services
+9）4.21 Jointly Learning Explainable Rules for Recommendation with Knowledge Graph
+10）5.7 RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation
+11）5.10 Mining Dual Emotion for Fake News Detection
+
 郭金一:                                                                                                                                                                        
 2020:                                                                                                                                                                           
 1)10.26 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss                                                                                               
@@ -12,6 +26,9 @@
 9)3.15 ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION                                                                                    
 10)3.19 APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL（已讲）                                                                             
 11)4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
+12)4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES
+13)4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
+14)4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
 
 张初兵：                                                                                                                                                                        
 2020:   
@@ -31,7 +48,10 @@
 13)3.13 REWEIGHTING AUGMENTED SAMPLES BY MINIMIZING THE MAXIMAL EXPECTED LOSS                                                                                                   
 14)3.13 ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS(已讲)                                                                                                   
 15)3.16 TOWARDS IMPARTIAL MULTI-TASK LEARNING                                                                                                                                   
-16)4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                                                                                                                                        
+16)4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                              
+17)4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity
+18)4.26 Towards More Explainability: Concept Knowledge Mining Network for Event Recognition                                                                                                         
+
 魏红陈：                                                                                                                                                                        
 2020:                                                                                                                                                                           
 1)10.27 Learn, Imagine and Create: Text-to-Image                                                                                                                                   
@@ -54,7 +74,9 @@
 17)3.12 WASSERSTEIN EMBEDDING FOR GRAPH LEARNING                                                                                                                                 
 18)3.14 COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION                                                                                                         
 19)3.15 RETHINKING POSITIONAL ENCODING IN LANGUAGE PRE-TRAINING                                                                                                                 
-20)3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION                                                                                                                                                                               
+20)3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION
+21)4.21 Generating Product Descriptions from User Reviews                                                                                                                       22）4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                                   
+23）5.10 Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval
 
 倪金龙：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -65,7 +87,9 @@
 4)1.11 Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment                                                                                          
 5)2.28 Large-Scale Adversarial Training for vision-and-Language Representation Learning(已讲)                                                                                     
 6)3.16 ACTIVE CONTRASTIVE LEARNING OF AUDIO-VISUAL VIDEO REPRESENTATIONS(已讲)                                                                                                   
-7)3.17 DISTILLING KNOWLEDGE FROM READER TO RETRIEVER FOR QUESTION ANSWERING                                                                                                                                                                                          
+7)3.17 DISTILLING KNOWLEDGE FROM READER TO RETRIEVER FOR QUESTION ANSWERING 
+8)4.21 Are All Successful Communities Alike? Characterizing and Predicting the Success of Online Communities
+9)5.6 Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation                                                                                                                                                                                         
 
 王鑫炎：                                                                                                                                                                         
 2020:                                                                                                                                                                           
@@ -83,7 +107,19 @@
 11)3.15 BOOST THEN CONVOLVE: GRADIENT BOOSTING MEETS GRAPH NEURAL NETWORKS                                                                                                      
 12)3.19 INTERPRETING KNOWLEDGE GRAPH RELATIONREPRESENTATION FROM WORD EMBEDDINGS                                                                                                
 13)3.20 HOW TO FIND YOUR FRIENDLY NEIGHBORHOOD: GRAPH ATTENTION DESIGN WITH SELF-SUPERVISION                                                                                    
-14)4.3 ADAGCN: ADABOOSTING GRAPH CONVOLUTIONAL NETWORKS INTO DEEP MODELS                                                                                    
+14)4.3 ADAGCN: ADABOOSTING GRAPH CONVOLUTIONAL NETWORKS INTO DEEP MODELS
+15)4.6 GRAPH-BASED CONTINUAL LEARNING   
+16)4.7 RETHINKING ATTENTION WITH PERFORMERS
+17)4.19 Learning to Generate Questions by Learning What not to Generate
+18)4.19 Triple Trustworthiness Measurement for Knowledge Graph 
+19)4.26 Market-oriented job skill valuation with cooperative composition neural network
+20)4.26 Typing Errors in Factual Knowledge Graphs: Severity and PossibleWays Out
+21)5.7 Revisiting the Evaluation Protocol of Knowledge Graph Completion Methods for Link Prediction
+22)5.7 Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
+23)5.7 Role-Aware Modeling for N-ary Relational Knowledge Bases                                                              
+24）5.8 MQuadE: a Unified Model for Knowledge Fact Embedding
+25）5.10 Learning Intents behind Interactions with Knowledge Graph for Recommendation
+26）5.11 Inductive Entity Representations from Text via Link Prediction
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -98,7 +134,20 @@
 8)3.14 ZERO-SHOT SYNTHESIS WITH GROUP-SUPERVISED LEARNING                                                                                                                       
 9)3.15 EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING                                                                                                             
 10)3.18 BAG OF TRICKS FOR ADVERSARIAL TRAINING                                                                                                                                   
-11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                     12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                             
+11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                     12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                               13）4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION
+14) 4.6 GETTING A CLUE: A METHOD FOR EXPLAINING UNCERTAINTY ESTIMATES
+15) 4.13 Open-world Learning and Application to Product Classification
+
+黄禹睿：
+2021：
+1）5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
+2）5.8 Mixup for Node and Graph Classification
+3）5.10 Knowledge Embedding Based Graph Convolutional Network
+4）5.11 Graph Structure Estimation Neural Networks
+
+张宇萱：
+2021：
+1）5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
 
 吴鸿轩：                                                                                                                                                                         
 2020:                                                                                                                                                                           
