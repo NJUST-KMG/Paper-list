@@ -30,12 +30,17 @@
 12)4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES(已讲)
 13)4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
 14)4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
+15）5.12 Curriculum CycleGAN for Textual Sentiment Domain Adaptation with Multiple Sources
+16）6.20 Large-Margin Contrastive Learning with Distance Polarization Regularizer
+17）6.20 Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
+18）6.24 Unsupervised Model Adaptation for Continual Semantic Segmentation
+19）7.29 Where and What? Examining Interpretable Disentangled Representations
 
 张初兵：                                                                                                                                                                        
 2020:   
 1)10.15 Graph Agreement Models for Semi-Supervised Learning                                                                                                                        
 2)11.3 Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning with Confidence(已讲)                                                                       
-3)11.25 Co-GCN for Multi-View Semi-Supervised Learning                                                                                                                                                                                                                                
+3)11.25 Co-GCN for Multi-View Semi-Supervised Learning  
 4)12.21 Model Adaptation: Unsupervised Domain Adaptation without Source Data                                                                                                     
 5)12.25 Structure Preserving Generative Cross-Domain Learning                                                                                                                   
 2021:                                                                                                                                                                           
@@ -50,8 +55,12 @@
 14)3.13 ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS(已讲)                                                                                                   
 15)3.16 TOWARDS IMPARTIAL MULTI-TASK LEARNING                                                                                                                                   
 16)4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                              
-17)4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity（已将）
-18)4.26 Towards More Explainability: Concept Knowledge Mining Network for Event Recognition                                                                                                         
+17)4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity（已讲）
+18)4.26 Towards More Explainability: Concept Knowledge Mining Network for Event Recognition
+19）5.12 Deep Co-Attention Network for Multi-View Subspace Learning
+20）6.3 CPM: A Large-scale Generative Chinese Pre-trained Language Model
+21）6.18 Self-Tuning for Data-Efficient Deep Learning
+22）9.1 Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
 
 魏红陈：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -76,8 +85,16 @@
 18)3.14 COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION                                                                                                         
 19)3.15 RETHINKING POSITIONAL ENCODING IN LANGUAGE PRE-TRAINING                                                                                                                 
 20)3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION(已讲)
-21)4.21 Generating Product Descriptions from User Reviews                                                                                                                       22）4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                                   
+21)4.21 Generating Product Descriptions from User Reviews                                                                                                                       
+22）4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                                   
 23）5.10 Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval
+24）6.3 Scene Restoring for Narrative Machine Reading Comprehension
+25）6.24 A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation
+26）7.29 Control Image Captioning Spatially and Temporally
+27）8.6 ROFORMER: ENHANCED TRANSFORMER WITH ROTARY POSITION EMBEDDING
+28）8.9 Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More
+29）8.13 Generative Video Transformer: Can Objects be the Words?
+30）8.26 VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
 
 倪金龙：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -122,6 +139,9 @@
 25）5.10 Learning Intents behind Interactions with Knowledge Graph for Recommendation
 26）5.11 Inductive Entity Representations from Text via Link Prediction
 27）5.12 Few-shot Network Anomaly Detection via Cross-network Meta-learning
+28）5.14 An Adversarial Transfer Network for Knowledge Representation
+29）6.2 Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention
+30）8.31 Relational Message Passing for Knowledge Graph Completion
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -136,9 +156,12 @@
 8)3.14 ZERO-SHOT SYNTHESIS WITH GROUP-SUPERVISED LEARNING                                                                                                                       
 9)3.15 EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING                                                                                                             
 10)3.18 BAG OF TRICKS FOR ADVERSARIAL TRAINING                                                                                                                                   
-11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                     12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                               13）4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION（已讲）
+11)3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                   
+12）4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                             
+13）4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION（已讲）
 14) 4.6 GETTING A CLUE: A METHOD FOR EXPLAINING UNCERTAINTY ESTIMATES
 15) 4.13 Open-world Learning and Application to Product Classification
+16）5.13 Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network
 
 黄禹睿：
 2021：
@@ -146,10 +169,16 @@
 2）5.8 Mixup for Node and Graph Classification
 3）5.10 Knowledge Embedding Based Graph Convolutional Network
 4）5.11 Graph Structure Estimation Neural Networks
+5）5.13 CurGraph: Curriculum Learning for Graph Classification
+6）8.27 TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction
+5）9.1 Probabilistic Label Tree for Streaming Multi-Label Learning
+
 
 张宇萱：
 2021：
 1）5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
+2）5.12 Debiasing Career Recommendations with Neural Fair Collaborative Filtering
+3）8.30 Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
 
 吴鸿轩：                                                                                                                                                                         
 2020:                                                                                                                                                                           
