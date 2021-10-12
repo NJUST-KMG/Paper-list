@@ -37,7 +37,9 @@
 18）6.24 Unsupervised Model Adaptation for Continual Semantic Segmentation
 19）7.29 Where and What? Examining Interpretable Disentangled Representations
 20) 9.3 Pre-trained Language Model based Ranking in Baidu Search
-
+21) 9.9 Learning from Imbalanced and Incomplete Supervision with Its Application to Ride-Sharing Liability Judgment
+22) 9.15 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment
+23) 9.17 An Experimental Study of Quantitative Evaluations on Saliency
 张初兵：                                                                                                                                                                        
 2020:   
 1)10.15 Graph Agreement Models for Semi-Supervised Learning                                                                                                                        
@@ -63,6 +65,7 @@
 20）6.3 CPM: A Large-scale Generative Chinese Pre-trained Language Model
 21）6.18 Self-Tuning for Data-Efficient Deep Learning
 22）9.1 Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
+23) 9.13 DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks
 
 魏红陈：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -97,6 +100,7 @@
 28）8.9 Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More
 29）8.13 Generative Video Transformer: Can Objects be the Words?
 30）8.26 VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
+31) 9.10 H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
 
 倪金龙：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -145,6 +149,7 @@
 29) 6.2 Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention
 30) 8.31 Relational Message Passing for Knowledge Graph Completion
 31) 9.3 NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs
+32) 9.7 Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -165,7 +170,10 @@
 14) 4.6 GETTING A CLUE: A METHOD FOR EXPLAINING UNCERTAINTY ESTIMATES
 15) 4.13 Open-world Learning and Application to Product Classification
 16）5.13 Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network
-
+17) 9.11 FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data
+18) 9.12 ELITE   Robust Deep Anomaly Detection with Meta Gradient
+19) 9.14 Deep Clustering based Fair Outlier Detection
+20) 9.14 Curriculum Meta-Learning for Next POI Recommendation
 黄禹睿：
 2021：
 1) 5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
@@ -174,15 +182,19 @@
 4) 5.11 Graph Structure Estimation Neural Networks
 5) 5.13 CurGraph: Curriculum Learning for Graph Classification
 6) 8.27 TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction
-5) 9.1 Probabilistic Label Tree for Streaming Multi-Label Learning
-6) 9.3 Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization
-
+7) 9.1 Probabilistic Label Tree for Streaming Multi-Label Learning
+8) 9.3 Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization
+9) 9.6 Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions
+10) 9.9 Learning Reliable User Representations from Volatile and Sparse Data to Accurately Predict Customer Lifetime Value
+11) 9.10 Heterogeneous Temporal Graph Transformer:An Intelligent System for Evolving Android Malware Detection
 张宇萱：
 2021：
-1）5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
-2）5.12 Debiasing Career Recommendations with Neural Fair Collaborative Filtering
-3）8.30 Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
-
+1) 5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
+2) 5.12 Debiasing Career Recommendations with Neural Fair Collaborative Filtering
+3) 8.30 Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
+4) 9.4 MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge
+5) 9.6 MeLL: Large-scale Extensible User Intent Classification for Dialogue Systems with Meta Lifelong Learning
+6) 9.16 Auto-Split: A General Framework of Collaborative Edge-Cloud AI
 吴鸿轩：                                                                                                                                                                         
 2020:                                                                                                                                                                           
 1)11.24 Semi-Supervised Learning under Class Distribution Mismatch                                                                                                               
