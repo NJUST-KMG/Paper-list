@@ -40,6 +40,9 @@
 21) 9.9 Learning from Imbalanced and Incomplete Supervision with Its Application to Ride-Sharing Liability Judgment
 22) 9.15 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment
 23) 9.17 An Experimental Study of Quantitative Evaluations on Saliency
+24) 9.17 A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
+25) 10.4 Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics
+26) 10.12 Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading(√)
 张初兵：                                                                                                                                                                        
 2020:   
 1)10.15 Graph Agreement Models for Semi-Supervised Learning                                                                                                                        
@@ -66,7 +69,9 @@
 21）6.18 Self-Tuning for Data-Efficient Deep Learning
 22）9.1 Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
 23) 9.13 DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks
-
+24) 10.4 MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation
+25) 10.8 Seeing Out of tHe bOx:End-to-End Pre-training for Vision-Language Representation Learning
+26) 10.11 AlphaMatch: Improving Consistency for Semi-supervised Learning with Alpha-divergence
 魏红陈：                                                                                                                                                                        
 2020:                                                                                                                                                                           
 1)10.27 Learn, Imagine and Create: Text-to-Image                                                                                                                                   
@@ -101,7 +106,11 @@
 29）8.13 Generative Video Transformer: Can Objects be the Words?
 30）8.26 VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
 31) 9.10 H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
-
+32) 9.28 Adaptive Edge Attention for Graph Matching with Outliers
+33) 10.4 Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles
+34) 10.7 Kaleido-BERT: Vision-Language Pre-training on Fashion Domain
+35) 10.7 Human-like Controllable Image Captioning with Verb-specific Semantic Roles
+36) 10.11 Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation
 倪金龙：                                                                                                                                                                        
 2020:                                                                                                                                                                           
 1)11.16 Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels(已讲)                                                                                                          
@@ -150,6 +159,7 @@
 30) 8.31 Relational Message Passing for Knowledge Graph Completion
 31) 9.3 NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs
 32) 9.7 Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion
+33) 9.17 AliCG  Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -174,6 +184,12 @@
 18) 9.12 ELITE   Robust Deep Anomaly Detection with Meta Gradient
 19) 9.14 Deep Clustering based Fair Outlier Detection
 20) 9.14 Curriculum Meta-Learning for Next POI Recommendation
+21) 9.28 Anomaly Mining - Past, Present and Future
+22) 10.5 XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations
+23) 10.6 Multiresolution Knowledge Distillation for Anomaly Detection
+24) 10.7 Understanding Failures of Deep Networks via Robust Feature Extraction
+25) 10.7 Relative Order Analysis and Optimization for Unsupervised Deep Metric Learning
+
 黄禹睿：
 2021：
 1) 5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
@@ -187,6 +203,10 @@
 9) 9.6 Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions
 10) 9.9 Learning Reliable User Representations from Volatile and Sparse Data to Accurately Predict Customer Lifetime Value
 11) 9.10 Heterogeneous Temporal Graph Transformer:An Intelligent System for Evolving Android Malware Detection
+12) 9.26 RCA: A Deep Collaborative Autoencoder Approach for Anomaly Detection
+13) 9.27 Masked Contrastive Learning for Anomaly Detection
+14) 9.27 Understanding the Effect of Bias in Deep Anomaly Detection
+15) 10.11 Your “Flamingo” is My “Bird”: Fine-Grained, or Not
 张宇萱：
 2021：
 1) 5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
@@ -195,6 +215,9 @@
 4) 9.4 MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge
 5) 9.6 MeLL: Large-scale Extensible User Intent Classification for Dialogue Systems with Meta Lifelong Learning
 6) 9.16 Auto-Split: A General Framework of Collaborative Edge-Cloud AI
+7) 9.17 Are we really making much progress? Revisiting, benchmarking, and refining heterogeneous graph neural networks
+8) 10.8 Knowledge Evolution in Neural Networks
+
 吴鸿轩：                                                                                                                                                                         
 2020:                                                                                                                                                                           
 1)11.24 Semi-Supervised Learning under Class Distribution Mismatch                                                                                                               
