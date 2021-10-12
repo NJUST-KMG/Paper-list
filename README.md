@@ -26,15 +26,16 @@
 8)2.25 Debiased Contrastive Learning(已讲)                                                                                                                                       
 9)3.15 ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION                                                                                    
 10)3.19 APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL（已讲）                                                                             
-11)4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
-12)4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES(已讲)
-13)4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
-14)4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
+11) 4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
+12) 4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES(已讲)
+13) 4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
+14) 4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
 15）5.12 Curriculum CycleGAN for Textual Sentiment Domain Adaptation with Multiple Sources
 16）6.20 Large-Margin Contrastive Learning with Distance Polarization Regularizer
 17）6.20 Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
 18）6.24 Unsupervised Model Adaptation for Continual Semantic Segmentation
 19）7.29 Where and What? Examining Interpretable Disentangled Representations
+20) 9.3 Pre-trained Language Model based Ranking in Baidu Search
 
 张初兵：                                                                                                                                                                        
 2020:   
