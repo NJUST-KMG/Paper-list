@@ -87,16 +87,16 @@
 11) 12.29 More Grounded Image Captioning by Distilling Image-Text Matching Model                                                                                                 
 12) 12.29 Assessing Image Quality Issues for Real-World Problems
 2021:                                                                                                                                                                           
-13) 2.15 Co-Tuning for Transfer Learning(已讲)                                                                                                                                     
-14) 2.19 Learning Sparse Prototypes for Text Generation                                                                                                                          
-15) 2.24 Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation                                                                                          
+13) 2.15 Co-Tuning for Transfer Learning(已讲)                                                                                                                           
+14) 2.19 Learning Sparse Prototypes for Text Generation                                                                                                                 
+15) 2.24 Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation                                                                                 
 16) 3.4 Language Models are Few-Shot Learners
-17) 3.12 WASSERSTEIN EMBEDDING FOR GRAPH LEARNING                                                                                                                                 
-18) 3.14 COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION                                                                                                         
-19) 3.15 RETHINKING POSITIONAL ENCODING IN LANGUAGE PRE-TRAINING                                                                                                                 
+17) 3.12 WASSERSTEIN EMBEDDING FOR GRAPH LEARNING                                                                                                                       
+18) 3.14 COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION                                                                                               
+19) 3.15 RETHINKING POSITIONAL ENCODING IN LANGUAGE PRE-TRAINING                                                                                                       
 20) 3.18 CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION(已讲)
-21) 4.21 Generating Product Descriptions from User Reviews                                                                                                                       
-22) 4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                                   
+21) 4.21 Generating Product Descriptions from User Reviews                                                                                                             
+22) 4.21 It's almost like thet're trying to hide it how user-provided image descriptions failed to make Twitter accessible                                             
 23) 5.10 Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval
 24) 6.3 Scene Restoring for Narrative Machine Reading Comprehension
 25) 6.24 A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation
@@ -111,35 +111,36 @@
 34) 10.7 Kaleido-BERT: Vision-Language Pre-training on Fashion Domain
 35) 10.7 Human-like Controllable Image Captioning with Verb-specific Semantic Roles
 36) 10.11 Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation
+
 倪金龙：                                                                                                                                                                        
 2020:                                                                                                                                                                           
 1) 11.16 Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels(已讲)                                                                                                          
 2) 12.17 Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels                                                                                                   
 3) 12.29 Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization                                                                                             
 2021:                                                                                                                                                                           
-4) 1.11 Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment                                                                                          
-5) 2.28 Large-Scale Adversarial Training for vision-and-Language Representation Learning(已讲)                                                                                     
-6) 3.16 ACTIVE CONTRASTIVE LEARNING OF AUDIO-VISUAL VIDEO REPRESENTATIONS(已讲)                                                                                                   
+4) 1.11 Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment                                                                                 
+5) 2.28 Large-Scale Adversarial Training for vision-and-Language Representation Learning(已讲)                                                                           
+6) 3.16 ACTIVE CONTRASTIVE LEARNING OF AUDIO-VISUAL VIDEO REPRESENTATIONS(已讲)                                                                                         
 7) 3.17 DISTILLING KNOWLEDGE FROM READER TO RETRIEVER FOR QUESTION ANSWERING 
 8) 4.21 Are All Successful Communities Alike? Characterizing and Predicting the Success of Online Communities
 9) 5.6 Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation                                                                                                                                                                                         
 
 王鑫炎：                                                                                                                                                                         
 2020:                                                                                                                                                                           
-1) 11.22 Not All Attention Is Needed: Gated Attention Network for Sequence Data                                                                                                  
-2) 12.19 Graph Structured Network for Image-Text Matching(已讲)                                                                                                                   
-3) 12.22 Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective(已讲)                                                            
-4) 12.29 DEPARA: Deep Attribution Graph for Deep Knowledge Transferability                                                                                                       
+1) 11.22 Not All Attention Is Needed: Gated Attention Network for Sequence Data                                                                                         
+2) 12.19 Graph Structured Network for Image-Text Matching(已讲)                                                                                                        
+3) 12.22 Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective(已讲)                                            
+4) 12.29 DEPARA: Deep Attribution Graph for Deep Knowledge Transferability                                                                                             
 5) 12.30 Computing the Testing Error without a Testing Set                                                                         
 2021:                                                                                                                             
 6) 2.9 Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting                                                      
-7) 2.10 Contrastive Learning with Adversarial Examples                                                                                                                           
-8) 2.24 Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding                                                                                             
-9) 2.24 GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks                                                                                                    
-10) 3.13 GRAPH EDIT NETWORKS Anonymous authors                                                                                                                                   
-11) 3.15 BOOST THEN CONVOLVE: GRADIENT BOOSTING MEETS GRAPH NEURAL NETWORKS                                                                                                      
-12) 3.19 INTERPRETING KNOWLEDGE GRAPH RELATIONREPRESENTATION FROM WORD EMBEDDINGS                                                                                                
-13) 3.20 HOW TO FIND YOUR FRIENDLY NEIGHBORHOOD: GRAPH ATTENTION DESIGN WITH SELF-SUPERVISION                                                                                    
+7) 2.10 Contrastive Learning with Adversarial Examples                                                                                                                 
+8) 2.24 Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding                                                                                   
+9) 2.24 GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks                                                                                        
+10) 3.13 GRAPH EDIT NETWORKS Anonymous authors
+11) 3.15 BOOST THEN CONVOLVE: GRADIENT BOOSTING MEETS GRAPH NEURAL NETWORKS                                                                                             
+12) 3.19 INTERPRETING KNOWLEDGE GRAPH RELATIONREPRESENTATION FROM WORD EMBEDDINGS                                                                                       
+13) 3.20 HOW TO FIND YOUR FRIENDLY NEIGHBORHOOD: GRAPH ATTENTION DESIGN WITH SELF-SUPERVISION                                                                           
 14) 4.3 ADAGCN: ADABOOSTING GRAPH CONVOLUTIONAL NETWORKS INTO DEEP MODELS
 15) 4.6 GRAPH-BASED CONTINUAL LEARNING   
 16) 4.7 RETHINKING ATTENTION WITH PERFORMERS
@@ -156,7 +157,7 @@
 27) 5.12 Few-shot Network Anomaly Detection via Cross-network Meta-learning
 28) 5.14 An Adversarial Transfer Network for Knowledge Representation
 29) 6.2 Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention
-30) 8.31 Relational Message Passing for Knowledge Graph Completion
+30) 8.31 Relational Message Passing for Knowledge Graph Completion(已讲)
 31) 9.3 NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs
 32) 9.7 Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion
 33) 9.17 AliCG  Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba
