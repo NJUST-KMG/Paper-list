@@ -1,17 +1,18 @@
 ```html
 鲍然：
 2021：
-1）4.6 AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
-2）4.13 What happened? The Spread of Fake News Publisher Content During the 2016 U.S. Presidential Election
-3）4.14 A survey on knowledge graph-based recommender systems
-4）4.19 TiSSA: A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors
-5）4.19 Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
-6）4.19 Knowledge Graph Convolutional Networks for Recommender Systems
-7）4.19 A Multi-modal Neural Embeddings Approach for Detecting Mobile Counterfeit Apps
-8）4.21 Doppelgängers on the DarkWeb: A Large-scale Assessment on Phishing HiddenWeb Services
-9）4.21 Jointly Learning Explainable Rules for Recommendation with Knowledge Graph
-10）5.7 RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation
-11）5.10 Mining Dual Emotion for Fake News Detection
+1) 4.6 AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+2) 4.13 What happened? The Spread of Fake News Publisher Content During the 2016 U.S. Presidential Election
+3) 4.14 A survey on knowledge graph-based recommender systems
+4) 4.19 TiSSA: A Time Slice Self-Attention Approach for Modeling Sequential User Behaviors
+5) 4.19 Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
+6) 4.19 Knowledge Graph Convolutional Networks for Recommender Systems
+7) 4.19 A Multi-modal Neural Embeddings Approach for Detecting Mobile Counterfeit Apps
+8) 4.21 Doppelgängers on the DarkWeb: A Large-scale Assessment on Phishing HiddenWeb Services
+9) 4.21 Jointly Learning Explainable Rules for Recommendation with Knowledge Graph
+10) 5.7 RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation
+11) 5.10 Mining Dual Emotion for Fake News Detection
+12) 9.4 Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System
 
 郭金一:                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -112,37 +113,38 @@
 
 王鑫炎：                                                                                                                                                                         
 2020:                                                                                                                                                                           
-1)11.22 Not All Attention Is Needed: Gated Attention Network for Sequence Data                                                                                                  
-2)12.19 Graph Structured Network for Image-Text Matching(已讲)                                                                                                                   
-3)12.22 Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective(已讲)                                                            
-4)12.29 DEPARA: Deep Attribution Graph for Deep Knowledge Transferability                                                                                                       
-5)12.30 Computing the Testing Error without a Testing Set                                                                         
+1) 11.22 Not All Attention Is Needed: Gated Attention Network for Sequence Data                                                                                                  
+2) 12.19 Graph Structured Network for Image-Text Matching(已讲)                                                                                                                   
+3) 12.22 Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective(已讲)                                                            
+4) 12.29 DEPARA: Deep Attribution Graph for Deep Knowledge Transferability                                                                                                       
+5) 12.30 Computing the Testing Error without a Testing Set                                                                         
 2021:                                                                                                                             
-6)2.9 Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting                                                      
-7)2.10 Contrastive Learning with Adversarial Examples                                                                                                                           
-8)2.24 Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding                                                                                             
-9)2.24 GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks                                                                                                    
-10)3.13 GRAPH EDIT NETWORKS Anonymous authors                                                                                                                                   
-11)3.15 BOOST THEN CONVOLVE: GRADIENT BOOSTING MEETS GRAPH NEURAL NETWORKS                                                                                                      
-12)3.19 INTERPRETING KNOWLEDGE GRAPH RELATIONREPRESENTATION FROM WORD EMBEDDINGS                                                                                                
-13)3.20 HOW TO FIND YOUR FRIENDLY NEIGHBORHOOD: GRAPH ATTENTION DESIGN WITH SELF-SUPERVISION                                                                                    
-14)4.3 ADAGCN: ADABOOSTING GRAPH CONVOLUTIONAL NETWORKS INTO DEEP MODELS
-15)4.6 GRAPH-BASED CONTINUAL LEARNING   
-16)4.7 RETHINKING ATTENTION WITH PERFORMERS
-17)4.19 Learning to Generate Questions by Learning What not to Generate
-18)4.19 Triple Trustworthiness Measurement for Knowledge Graph 
-19)4.26 Market-oriented job skill valuation with cooperative composition neural network
-20)4.26 Typing Errors in Factual Knowledge Graphs: Severity and PossibleWays Out
-21)5.7 Revisiting the Evaluation Protocol of Knowledge Graph Completion Methods for Link Prediction
-22)5.7 Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
-23)5.7 Role-Aware Modeling for N-ary Relational Knowledge Bases                                                              
-24）5.8 MQuadE: a Unified Model for Knowledge Fact Embedding
-25）5.10 Learning Intents behind Interactions with Knowledge Graph for Recommendation
-26）5.11 Inductive Entity Representations from Text via Link Prediction
-27）5.12 Few-shot Network Anomaly Detection via Cross-network Meta-learning
-28）5.14 An Adversarial Transfer Network for Knowledge Representation
-29）6.2 Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention
-30）8.31 Relational Message Passing for Knowledge Graph Completion
+6) 2.9 Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting                                                      
+7) 2.10 Contrastive Learning with Adversarial Examples                                                                                                                           
+8) 2.24 Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding                                                                                             
+9) 2.24 GNNGUARD: Defending Graph Neural Networks against Adversarial Attacks                                                                                                    
+10) 3.13 GRAPH EDIT NETWORKS Anonymous authors                                                                                                                                   
+11) 3.15 BOOST THEN CONVOLVE: GRADIENT BOOSTING MEETS GRAPH NEURAL NETWORKS                                                                                                      
+12) 3.19 INTERPRETING KNOWLEDGE GRAPH RELATIONREPRESENTATION FROM WORD EMBEDDINGS                                                                                                
+13) 3.20 HOW TO FIND YOUR FRIENDLY NEIGHBORHOOD: GRAPH ATTENTION DESIGN WITH SELF-SUPERVISION                                                                                    
+14) 4.3 ADAGCN: ADABOOSTING GRAPH CONVOLUTIONAL NETWORKS INTO DEEP MODELS
+15) 4.6 GRAPH-BASED CONTINUAL LEARNING   
+16) 4.7 RETHINKING ATTENTION WITH PERFORMERS
+17) 4.19 Learning to Generate Questions by Learning What not to Generate
+18) 4.19 Triple Trustworthiness Measurement for Knowledge Graph 
+19) 4.26 Market-oriented job skill valuation with cooperative composition neural network
+20) 4.26 Typing Errors in Factual Knowledge Graphs: Severity and PossibleWays Out
+21) 5.7 Revisiting the Evaluation Protocol of Knowledge Graph Completion Methods for Link Prediction
+22) 5.7 Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
+23) 5.7 Role-Aware Modeling for N-ary Relational Knowledge Bases                                                              
+24) 5.8 MQuadE: a Unified Model for Knowledge Fact Embedding
+25) 5.10 Learning Intents behind Interactions with Knowledge Graph for Recommendation
+26) 5.11 Inductive Entity Representations from Text via Link Prediction
+27) 5.12 Few-shot Network Anomaly Detection via Cross-network Meta-learning
+28) 5.14 An Adversarial Transfer Network for Knowledge Representation
+29) 6.2 Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention
+30) 8.31 Relational Message Passing for Knowledge Graph Completion
+31) 9.3 NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
@@ -166,14 +168,14 @@
 
 黄禹睿：
 2021：
-1）5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
-2）5.8 Mixup for Node and Graph Classification
-3）5.10 Knowledge Embedding Based Graph Convolutional Network
-4）5.11 Graph Structure Estimation Neural Networks
-5）5.13 CurGraph: Curriculum Learning for Graph Classification
-6）8.27 TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction
-5）9.1 Probabilistic Label Tree for Streaming Multi-Label Learning
-
+1) 5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
+2) 5.8 Mixup for Node and Graph Classification
+3) 5.10 Knowledge Embedding Based Graph Convolutional Network
+4) 5.11 Graph Structure Estimation Neural Networks
+5) 5.13 CurGraph: Curriculum Learning for Graph Classification
+6) 8.27 TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction
+5) 9.1 Probabilistic Label Tree for Streaming Multi-Label Learning
+6) 9.3 Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization
 
 张宇萱：
 2021：
