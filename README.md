@@ -16,18 +16,9 @@
 
 郭金一:                                                                                                                                                                        
 2020:                                                                                                                                                                           
-1) 10.26 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss                                                                                               
-2) 11.19 AUC Optimization with a Reject Option(已讲)                                                                                                                               
-3) 11.19 Weakly Supervised Learning Meets Ride-Sharing User Experience Enhancement                                                                                              
-4) 12.15 What Makes Training Multi-modal Classification Networks Hard?                                                                                                           
-5) 12.26 Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective                                                                        
-6) 12.29 Semi-supervised Learning for Few-shot Image-to-Image Translation                                                                                                        
+1) 10.26 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss                                                                                         2) 11.19 AUC Optimization with a Reject Option(已讲)                                                                                                                     3) 11.19 Weakly Supervised Learning Meets Ride-Sharing User Experience Enhancement                                                                                     4) 12.15 What Makes Training Multi-modal Classification Networks Hard?                                                                                                 5) 12.26 Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective                                                               6) 12.29 Semi-supervised Learning for Few-shot Image-to-Image Translation                                                                                                        
 2021:                                                                                                                                                                           
-7) 1.11 Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment                                                                                          
-8) 2.25 Debiased Contrastive Learning(已讲)                                                                                                                                       
-9) 3.15 ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION                                                                                    
-10) 3.19 APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL（已讲）                                                                             
-11) 4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
+7) 1.11 Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment                                                                                 8) 2.25 Debiased Contrastive Learning(已讲)                                                                                                                             9) 3.15 ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION                                                                           10) 3.19 APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL（已讲）                                                                     11) 4.3 VIEWMAKER NETWORKS: LEARNING VIEWS FOR UNSUPERVISED REPRESENTATION LEARNING
 12) 4.6 SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES(已讲)
 13) 4.6 SUPPORT-SET BOTTLENECKS FOR VIDEO-TEXT REPRESENTATION LEARNING
 14) 4.19 Unsupervised Semantic Generative Adversarial Networks for Expert Retrieval
@@ -43,25 +34,28 @@
 24) 9.17 A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
 25) 10.4 Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics
 26) 10.12 Learning from the Master: Distilling Cross-modal Advanced Knowledge for Lip Reading(√)
+
+
 张初兵：                                                                                                                                                                        
-2020:   
-1) 10.15 Graph Agreement Models for Semi-Supervised Learning                                                                                                                        
-2) 11.3 Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning with Confidence(已讲)                                                                       
+2020:  
+
+1) 10.15 Graph Agreement Models for Semi-Supervised Learning                                                                      
+2) 11.3 Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning with Confidence(已讲)
 3) 11.25 Co-GCN for Multi-View Semi-Supervised Learning  
-4) 12.21 Model Adaptation: Unsupervised Domain Adaptation without Source Data                                                                                                     
+4) 12.21 Model Adaptation: Unsupervised Domain Adaptation without Source Data                                                                                           
 5) 12.25 Structure Preserving Generative Cross-Domain Learning                                                                                                                   
 2021:                                                                                                                                                                           
-6) 1.11 GCN meets GPU: Decoupling “When to Sample” from “How to Sample”                                                                                                          
-7) 2.25 What Makes Training Multi-modal Classification Networks Hard?                                                                                                            
-8) 2.26 Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence                                                                                              
-9) 2.28 Deep Multimodal Fusion by Channel Exchanging                                                                                                                             
-10) 3.3 Partially View-aligned Clustering                                                                                                                                      
-11) 3.5 Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies                                                                              
-12) 3.11 COMBINING ENSEMBLES AND DATA AUGMENTATION CAN HARM YOUR CALIBRATION                                                                                                     
-13) 3.13 REWEIGHTING AUGMENTED SAMPLES BY MINIMIZING THE MAXIMAL EXPECTED LOSS                                                                                                   
-14) 3.13 ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS(已讲)                                                                                                   
-15) 3.16 TOWARDS IMPARTIAL MULTI-TASK LEARNING                                                                                                                                   
-16) 4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                              
+6) 1.11 GCN meets GPU: Decoupling “When to Sample” from “How to Sample”                                                                                                 
+7) 2.25 What Makes Training Multi-modal Classification Networks Hard?                                                                                                   
+8) 2.26 Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence                                                                                     
+9) 2.28 Deep Multimodal Fusion by Channel Exchanging                                                                                                                   
+10) 3.3 Partially View-aligned Clustering                                                                                                                               
+11) 3.5 Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies                                                                    
+12) 3.11 COMBINING ENSEMBLES AND DATA AUGMENTATION CAN HARM YOUR CALIBRATION                                                                                          
+13) 3.13 REWEIGHTING AUGMENTED SAMPLES BY MINIMIZING THE MAXIMAL EXPECTED LOSS                                                                                         
+14) 3.13 ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS(已讲)                                                                                        
+15) 3.16 TOWARDS IMPARTIAL MULTI-TASK LEARNING                                                                                                                         
+16) 4.5 ON SELF-SUPERVISED IMAGE REPRESENTATIONS FOR GAN EVALUATION                                                                                                     
 17) 4.6 Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity（已讲）
 18) 4.26 Towards More Explainability: Concept Knowledge Mining Network for Event Recognition
 19) 5.12 Deep Co-Attention Network for Multi-View Subspace Learning
@@ -74,18 +68,10 @@
 26) 10.11 AlphaMatch: Improving Consistency for Semi-supervised Learning with Alpha-divergence
 魏红陈：                                                                                                                                                                        
 2020:                                                                                                                                                                           
-1) 10.27 Learn, Imagine and Create: Text-to-Image                                                                                                                                   
-2) 10.27 Generation from Prior Knowledge                                                                                                                                           
-3) 11.16 Gromov-Wasserstein Learning for Graph Matching and Node Embedding                                                                                                         
-4) 11.16 Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup                                                                                                    
-5) 11.23 Graph-Based Decoding Model for Functional Alignment of Unaligned fMRI Data                                                                                                 
-6) 11.26 Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption                                     
-7) 12.17 Hypergraph Attention Networks for Multimodal Learning                                                                                                                                                                                                                                                                              
-8) 12.20 Meshed-Memory Transformer for Image Captioning(已讲)                                                                                                                     
-9) 12.22 Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping                                                                                                                                                                                                             
-10) 12.24 Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning                                                                                           
-11) 12.29 More Grounded Image Captioning by Distilling Image-Text Matching Model                                                                                                 
+1) 10.27 Learn, Imagine and Create: Text-to-Image                                                                                                                       2) 10.27 Generation from Prior Knowledge                                                                                                                               3) 11.16 Gromov-Wasserstein Learning for Graph Matching and Node Embedding                                                                                             4) 11.16 Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup                                                                                         5) 11.23 Graph-Based Decoding Model for Functional Alignment of Unaligned fMRI Data                                                                                     6) 11.26 Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption                         7) 12.17 Hypergraph Attention Networks for Multimodal Learning                                                                                                         8) 12.20 Meshed-Memory Transformer for Image Captioning(已讲)                                                                                                           9) 12.22 Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping                                                                                              10) 12.24 Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning                                                                                 
+11) 12.29 More Grounded Image Captioning by Distilling Image-Text Matching Model                                                                                       
 12) 12.29 Assessing Image Quality Issues for Real-World Problems
+
 2021:                                                                                                                                                                           
 13) 2.15 Co-Tuning for Transfer Learning(已讲)                                                                                                                           
 14) 2.19 Learning Sparse Prototypes for Text Generation                                                                                                                 
@@ -132,7 +118,9 @@
 3) 12.22 Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective(已讲)                                            
 4) 12.29 DEPARA: Deep Attribution Graph for Deep Knowledge Transferability                                                                                             
 5) 12.30 Computing the Testing Error without a Testing Set                                                                         
-2021:                                                                                                                             
+
+2021: 
+
 6) 2.9 Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting                                                      
 7) 2.10 Contrastive Learning with Adversarial Examples                                                                                                                 
 8) 2.24 Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding                                                                                   
@@ -164,20 +152,9 @@
 
 傅中添：                                                                                                                                                                        
 2020:                                                                                                                                                                           
-1) 11.19 CONAN: Complementary Pattern Augmentation for Rare Disease Detection(已讲)                                                                                               
-2) 12.18 Old is g_old: Redefining the Adversarially Learned One-Class Classifier Training Paradigm                                                                               
-3) 12.29 ADINet: Attribute driven incremental network for retinal image classification                                                                                           
-4) 12.29 Uninformed Students: Student–Teacher Anomaly Detection with Discriminative Latent Embeddings                                                                            
+1) 11.19 CONAN: Complementary Pattern Augmentation for Rare Disease Detection(已讲)                                                                                     2) 12.18 Old is g_old: Redefining the Adversarially Learned One-Class Classifier Training Paradigm                                                                     3) 12.29 ADINet: Attribute driven incremental network for retinal image classification                                                                                 4) 12.29 Uninformed Students: Student–Teacher Anomaly Detection with Discriminative Latent Embeddings                                                                            
 2021:                                                                                                                                                                           
-5) 2.26 Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence                                                                                              
-6) 3.5 Language Models are Few-Shot Learners                                                                                                                                     
-7) 3.5 OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification                                                                                     
-8) 3.14 ZERO-SHOT SYNTHESIS WITH GROUP-SUPERVISED LEARNING                                                                                                                       
-9) 3.15 EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING                                                                                                             
-10) 3.18 BAG OF TRICKS FOR ADVERSARIAL TRAINING                                                                                                                                   
-11) 3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                                   
-12) 4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                             
-13) 4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION（已讲）
+5) 2.26 Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence                                                                                     6) 3.5 Language Models are Few-Shot Learners                                                                                                                           7) 3.5 OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification                                                                           8) 3.14 ZERO-SHOT SYNTHESIS WITH GROUP-SUPERVISED LEARNING                                                                                                             9) 3.15 EXPLORING BALANCED FEATURE SPACES FOR REPRESENTATION LEARNING                                                                                                   10) 3.18 BAG OF TRICKS FOR ADVERSARIAL TRAINING                                                                                                                          11) 3.20 EEC: LEARNING TO ENCODE AND REGENERATE IMAGES FOR CONTINUAL LEARNING                                                                                           12) 4.3 NEGATIVE DATA AUGMENTATION                                                                                                                                     13) 4.5 EXPLAINABLE DEEP ONE-CLASS CLASSIFICATION（已讲）
 14) 4.6 GETTING A CLUE: A METHOD FOR EXPLAINING UNCERTAINTY ESTIMATES
 15) 4.13 Open-world Learning and Application to Product Classification
 16) 5.13 Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network
@@ -192,7 +169,9 @@
 25) 10.7 Relative Order Analysis and Optimization for Unsupervised Deep Metric Learning
 
 黄禹睿：
+
 2021：
+
 1) 5.7 Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks
 2) 5.8 Mixup for Node and Graph Classification
 3) 5.10 Knowledge Embedding Based Graph Convolutional Network
@@ -208,8 +187,11 @@
 13) 9.27 Masked Contrastive Learning for Anomaly Detection
 14) 9.27 Understanding the Effect of Bias in Deep Anomaly Detection
 15) 10.11 Your “Flamingo” is My “Bird”: Fine-Grained, or Not
+
 张宇萱：
+
 2021：
+
 1) 5.8 Online Disease Diagnosis with Inductive Heterogeneous Graph Convolutional Networks
 2) 5.12 Debiasing Career Recommendations with Neural Fair Collaborative Filtering
 3) 8.30 Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
@@ -220,10 +202,5 @@
 8) 10.8 Knowledge Evolution in Neural Networks
 
 吴鸿轩：                                                                                                                                                                         
-2020:                                                                                                                                                                           
-1) 11.24 Semi-Supervised Learning under Class Distribution Mismatch                                                                                                               
-2) 12.15 Self-trained Deep Ordinal Regression for End-to-End Video Anomaly Detection                                                                                             
-3) 12.20 Mnemonics Training: Multi-Class Incremental Learning without Forgetting                                                                                                 
-4) 12.29 ADINet: Attribute driven incremental network for retinal image classification                                                                                           
-5) 12.29 Uninformed Students: Student–Teacher Anomaly Detection with Discriminative Latent Embeddings
+2020:                                                                                                                                                                   1) 11.24 Semi-Supervised Learning under Class Distribution Mismatch                                                                                                     2) 12.15 Self-trained Deep Ordinal Regression for End-to-End Video Anomaly Detection                                                                                   3) 12.20 Mnemonics Training: Multi-Class Incremental Learning without Forgetting                                                                                       4) 12.29 ADINet: Attribute driven incremental network for retinal image classification                                                                                  5) 12.29 Uninformed Students: Student–Teacher Anomaly Detection with Discriminative Latent Embeddings
 ```
